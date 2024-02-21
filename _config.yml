@@ -1,8 +1,0 @@
-title: SPI-Birds
-description: YOUR DESCRIPTION
-remote_theme: just-the-docs/just-the-docs
-plugins:
-- jekyll-remote-theme
-- jekyll-feed
-- jekyll-sitemap
-- jekyll-seo-tag
